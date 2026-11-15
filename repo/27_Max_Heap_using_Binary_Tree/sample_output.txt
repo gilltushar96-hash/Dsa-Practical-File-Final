@@ -1,0 +1,9 @@
+Enter number of nodes: 5
+Enter root value: 10
+Enter left child of 10 (-1 for no child): 20
+Enter right child of 10 (-1 for no child): 30
+Enter left child of 20 (-1 for no child): 40
+Enter right child of 20 (-1 for no child): 50
+
+Before building max heap: 10 20 30 40 50
+After building max heap: 50 40 30 10 20

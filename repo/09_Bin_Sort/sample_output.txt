@@ -1,0 +1,4 @@
+Before sorting:
+42 32 33 52 37 47 51
+After sorting:
+32 33 37 42 47 51 52

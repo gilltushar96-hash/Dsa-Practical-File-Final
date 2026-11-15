@@ -1,0 +1,15 @@
+enter values and at last enter -1 50
+30
+70
+20
+40
+56
+80
+-1
+
+Inorder Traversal: 20 30 40 50 56 70 80
+50
+30 70
+20 40 56 80
+
+Inorder Traversal: 20 30 40 50 70 80

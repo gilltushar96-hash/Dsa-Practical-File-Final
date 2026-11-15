@@ -1,0 +1,9 @@
+Enter number of nodes: 5
+Enter root value: 50
+Enter left child of 50 (-1 for no child): 40
+Enter right child of 50 (-1 for no child): 30
+Enter left child of 40 (-1 for no child): 20
+Enter right child of 40 (-1 for no child): 10
+
+Before building min heap: 50 40 30 20 10
+After building min heap: 10 20 30 50 40

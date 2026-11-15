@@ -1,0 +1,5 @@
+Infix: 2+3*4
+Postfix: 234*+
+Prefix: +2*34
+Postfix Answer: 14
+Prefix Answer: 14

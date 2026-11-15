@@ -1,0 +1,2 @@
+Before Deletion: 10 20 25 30 40 50
+After Deletion: 20 25 30 40 50

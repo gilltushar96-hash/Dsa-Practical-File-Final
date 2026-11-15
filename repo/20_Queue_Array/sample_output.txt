@@ -1,0 +1,5 @@
+10 20 30
+Front: 10
+Rear: 30
+Deleted: 10
+20 30

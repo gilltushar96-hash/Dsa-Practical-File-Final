@@ -1,0 +1,1 @@
+K largest elements: 15 30 20

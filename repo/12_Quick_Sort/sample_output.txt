@@ -1,0 +1,12 @@
+before sorting
+12
+53
+18
+32
+43
+after sorting
+12
+18
+32
+43
+53
